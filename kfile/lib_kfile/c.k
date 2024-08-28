@@ -1,0 +1,8 @@
+*KEYWORD
+*TITEL
+*CONTROL_TERMINAL
+1       23       
+
+
+
+*MYKEYWORD

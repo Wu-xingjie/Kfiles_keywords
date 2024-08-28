@@ -1,0 +1,4 @@
+/home/wxj/Kfiles_keywords/build/CMakeFiles/keywords.dir
+/home/wxj/Kfiles_keywords/build/CMakeFiles/main.dir
+/home/wxj/Kfiles_keywords/build/CMakeFiles/edit_cache.dir
+/home/wxj/Kfiles_keywords/build/CMakeFiles/rebuild_cache.dir

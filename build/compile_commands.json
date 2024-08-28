@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/wxj/Kfiles_keywords/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/keywords.dir/keywords.cpp.o -c /home/wxj/Kfiles_keywords/keywords.cpp",
+  "file": "/home/wxj/Kfiles_keywords/keywords.cpp",
+  "output": "CMakeFiles/keywords.dir/keywords.cpp.o"
+},
+{
+  "directory": "/home/wxj/Kfiles_keywords/build",
+  "command": "/usr/bin/c++   -g -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/wxj/Kfiles_keywords/main.cpp",
+  "file": "/home/wxj/Kfiles_keywords/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
